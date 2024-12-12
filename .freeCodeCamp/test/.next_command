@@ -55,3 +55,11 @@ cat name.txt
 cat < name.txt
 echo cat
 echo suhendar
+git remote -v
+git init
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/darhensu/learn-advanced-bash-by-building-a-kitty-ipsum-translator.git
+git remote -v
+git status
+git add .
