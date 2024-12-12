@@ -50,3 +50,4 @@ read NAME < name.txt
 echo $NAME
 echo suhendar
 echo $NAME
+cat
