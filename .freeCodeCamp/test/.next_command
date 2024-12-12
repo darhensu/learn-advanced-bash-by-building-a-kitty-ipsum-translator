@@ -51,3 +51,4 @@ echo $NAME
 echo suhendar
 echo $NAME
 cat
+cat name.txt
