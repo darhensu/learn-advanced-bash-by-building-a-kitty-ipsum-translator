@@ -43,3 +43,5 @@ read NAME
 echo $BANE
 cho $NAME
 echo $NAME
+echo $NAME 2> stdout.txt
+echo $NAME > stdout.txt
