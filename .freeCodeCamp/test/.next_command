@@ -103,3 +103,4 @@ script.sh
 ./script.sh
 echo suhendar
 echo suhendar
+git add .
