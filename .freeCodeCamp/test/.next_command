@@ -60,3 +60,10 @@ cat
 cat name.txt
 cat < name.txt
 echo suhendar
+git status
+git add .
+git status
+git push origin main
+git push --force origin main
+git status
+git add .
