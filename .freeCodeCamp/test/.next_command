@@ -54,3 +54,4 @@ read NAME < name.txt
 read $NAME
 echo $NAME
 echo suhendar
+echo $NAME
