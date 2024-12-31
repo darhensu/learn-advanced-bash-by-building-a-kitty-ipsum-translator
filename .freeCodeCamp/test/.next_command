@@ -53,3 +53,4 @@ echo freeCodeCamp > name.txt
 read NAME < name.txt
 read $NAME
 echo $NAME
+echo suhendar
