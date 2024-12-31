@@ -38,3 +38,4 @@ git status
 git pull origin main
 git pull --force origin main
 echo hello bash
+echo hello bash > stdout.txt
