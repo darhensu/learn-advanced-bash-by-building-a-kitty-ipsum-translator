@@ -57,3 +57,4 @@ echo suhendar
 echo $NAME
 cay
 cat
+cat name.txt
