@@ -107,3 +107,5 @@ echo suhendar
 rcho suhendar
 echo suhendar
 echo suhendar
+name.txt suhendar < echo
+./script.sh < name.txt
