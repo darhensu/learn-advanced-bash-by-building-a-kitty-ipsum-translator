@@ -109,3 +109,5 @@ echo suhendar
 echo suhendar
 name.txt suhendar < echo
 ./script.sh < name.txt
+./script.sh < name.txt
+./script.sh < name.txt 2> stderr.txt
