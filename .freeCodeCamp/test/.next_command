@@ -218,3 +218,5 @@ man grep
 grep -o 'meow[a-z]*' kitty_ipsum.txt
 grep -o 'meow[a-z]*' kitty_ipsum_1.txt
 grep -o 'meow[a-z]*' kitty_ipsum_1.txt
+wc - l -o 'meow[a-z]*' kitty_ipsum_1.txt < grep >> kitty_info.txt
+grep -o 'meow[a-z]*' kitty_ipsum_1.txt
