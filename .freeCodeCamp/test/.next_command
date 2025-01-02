@@ -186,3 +186,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 wc -l kitty_ipsum_1.txt
 wc -w kitty_ipsum_1.txt
+wc -c kitty_ipsum_1.txt
+wc -m kitty_ipsum_1.txt
