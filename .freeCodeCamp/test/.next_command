@@ -215,3 +215,5 @@ grep --color -c 'meow[a-z]*' kitty_ipsum_1.txt
 __vsc_prompt_cmd_original
 grep -c 'meow[a-z]*' kitty_ipsum_1.txt
 man grep
+grep -o 'meow[a-z]*' kitty_ipsum.txt
+grep -o 'meow[a-z]*' kitty_ipsum_1.txt
