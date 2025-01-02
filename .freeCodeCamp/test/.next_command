@@ -229,3 +229,5 @@ sed 's/free/f233/' name.txt
 sed 's/freecodecamp/f233C0d3c@mp/' name.txt
 sed 's/freeCodeCamp/f233C0d3c@mp/' name.txt
 sed 's/freecodecamp/f233C0d3C@mp/' name.txt
+git status
+git add .
