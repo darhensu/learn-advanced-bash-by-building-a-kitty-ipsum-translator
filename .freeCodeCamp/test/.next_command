@@ -210,3 +210,7 @@ grep --color -n 'meow[a-z]*' kitty_ipsum_1.txt
 echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
 grep --color -n 'meow[a-z]*' kitty_ipsum_1.txt
 grep --color 'meow[a-z]*' kitty_ipsum_1.txt
+grep --color -c 'meow[a-z]*' kitty_ipsum.txt
+grep --color -c 'meow[a-z]*' kitty_ipsum_1.txt
+__vsc_prompt_cmd_original
+grep -c 'meow[a-z]*' kitty_ipsum_1.txt
